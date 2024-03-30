@@ -4,8 +4,7 @@ I'm Nicolas, and I am a computer science student --1st year.(Junior developper )
 
 
 
-## ☁ My Goal: 
-🎯Become a DevOps engineer
+
 
 ## 💼Tools: 
 Visual Studio Code
